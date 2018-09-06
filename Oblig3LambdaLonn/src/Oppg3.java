@@ -3,7 +3,7 @@
  */
 
 /**
- * @author 181345
+ * @author Mirnes Sabaredzovic
  *
  */
 public class Oppg3 {
