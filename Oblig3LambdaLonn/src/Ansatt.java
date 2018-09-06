@@ -23,7 +23,28 @@ public class Ansatt {
 		this.aarslonn = aarslonn;	
 	}
 
-
+	
+	
+	
+	
+	/**
+	 * En generell metode for å endre lønnen til en ansatt. 
+	 * 
+	 * La parameteren til endreLonn(...) være av typen Function<Integer, Integer> (f(gammel lønn) = ny lønn).
+	 * Dette tilsvarer om du selv hadde definert en funksjonell kontrakt med metoden Integer m(Integer x).
+	 * 
+	 */
+	
+	
+	//TODO
+	public void endreLonn() {
+		
+	}
+	
+	
+	
+	
+	
 	public String getNavn() {
 		return navn;
 	}
